@@ -9,6 +9,6 @@
         </update>
     </info>
     <files>
-        <file name="class-madscientist.xml" url="https://raw.githubusercontent.com/marcelthnk/mad-scientist-homebrew/refs/heads/main/mainxml" />
+        <file name="mainxml.xml" url="https://raw.githubusercontent.com/marcelthnk/mad-scientist-homebrew/refs/heads/main/mainxml" />
     </files>
 </index>
