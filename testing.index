@@ -5,7 +5,7 @@
         <description>An engineer class and related content for DD 5e.</description>
         <author>Marcelo</author>
         <update version="0.1.0">
-            <file name="class-madscientist.xml" />
+            <file name="mainxml.xml" />
         </update>
     </info>
     <files>
