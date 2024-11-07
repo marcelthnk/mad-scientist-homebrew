@@ -3,7 +3,7 @@
    <info>
       <name>Mad Scientist</name>
       <description></description>
-      <author> Marcelo </author>
+      <author>Marcelo </author>
       <update version="0.1.0">
          <file name="mainxml.xml" />
       </update>
