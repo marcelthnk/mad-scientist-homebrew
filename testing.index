@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+    <info>
+        <name>Mad Scientist Homebrew</name>
+        <description>An engineer class and related content for DD 5e.</description>
+        <author>Marcelo</author>
+        <update version="0.1.0">
+            <file name="class-madscientist.xml" />
+        </update>
+    </info>
+    <files>
+        <file name="class-madscientist.xml" url="https://raw.githubusercontent.com/marcelthnk/mad-scientist-homebrew/master/class-madscientist.xml" />
+    </files>
+</index>
