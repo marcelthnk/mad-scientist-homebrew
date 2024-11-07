@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+   <info>
+      <name>Mad Scientist</name>
+      <description></description>
+      <author> Marcelo </author>
+      <update version="0.1.0">
+         <file name="class-madscientist.xml" />
+      </update>
+   </info>
+
+   <element name="Mad Scientist" type="Class" source="HOMEBREW" id="ID_HBREW_CLASS_MADSCIENTIST">
+      <description>
+         <p class="flavor">An engineer</p>
+         <h4>idk</h4>
+      </description>
+   </element>
+</elements>
